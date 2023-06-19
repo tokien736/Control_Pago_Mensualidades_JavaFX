@@ -2,7 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org</groupId>
+<<<<<<< HEAD
     <artifactId>Pagos-Mensualidad</artifactId>
+=======
+    <artifactId>PagosMensualidad</artifactId>
+>>>>>>> frontend
     <version>1.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -13,13 +17,21 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
+<<<<<<< HEAD
             <version>20</version>
+=======
+            <version>13</version>
+>>>>>>> frontend
         </dependency>
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
+<<<<<<< HEAD
             <version>20</version>
             <type>jar</type>
+=======
+            <version>13</version>
+>>>>>>> frontend
         </dependency>
     </dependencies>
     <build>

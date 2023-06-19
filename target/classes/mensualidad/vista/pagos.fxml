@@ -6,6 +6,10 @@
 
 <AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="550.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/19">
    <children>
+<<<<<<< HEAD
       <Text layoutX="202.0" layoutY="162.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pagos" />
+=======
+      <Text layoutX="264.0" layoutY="184.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CAmbiar pagos" />
+>>>>>>> frontend
    </children>
 </AnchorPane>
