@@ -10,9 +10,6 @@
 
 <AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="550.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-
-      <Text layoutX="252.0" layoutY="159.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Reportes" />
-      <Text layoutX="264.0" layoutY="205.0" strokeType="OUTSIDE" strokeWidth="0.0" text="configuracion reportes" />
       <Text layoutX="162.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Grado escolar:" />
       <Text layoutX="20.0" layoutY="53.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Estudiante:" />
       <Text layoutX="33.0" layoutY="225.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Grado escolar:" />

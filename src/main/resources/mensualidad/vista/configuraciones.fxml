@@ -10,10 +10,6 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="550.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-
-      <Text layoutX="231.0" layoutY="162.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Configuraciones" />
-
-      <Text layoutX="252.0" layoutY="187.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cambiar configuraciones" />
       <Text layoutX="59.0" layoutY="82.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CONFIGURACIÓN">
          <font>
             <Font size="25.0" />
